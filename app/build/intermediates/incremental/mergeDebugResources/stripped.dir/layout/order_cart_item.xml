@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:background="@color/white"
+    android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:id="@+id/itemLay"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:clickable="true"
+        android:focusable="true"
+        android:focusableInTouchMode="false">
+
+        <ImageView
+            android:id="@+id/img"
+            android:layout_width="75dp"
+            android:layout_height="75dp"
+            android:layout_margin="@dimen/defaultMargin"
+            android:layout_marginBottom="2dp"
+            android:scaleType="center"
+            android:src="@drawable/ic_image_grey600_36dp" />
+        <TextView
+            android:layout_width="21dp"
+            android:layout_height="21dp"
+            android:id="@+id/percent"
+            android:text="%"
+            android:layout_alignParentLeft="true"
+            android:gravity="center"
+            android:background="@drawable/yellow_circle"
+            android:layout_marginLeft="8dp"
+            android:layout_marginTop="8dp"
+            android:textColor="@color/cardview_light_background"
+            android:visibility="gone"
+            android:textSize="8sp"
+            />
+        <TextView
+            android:id="@+id/title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="8dp"
+            android:layout_marginRight="8dp"
+            android:layout_marginTop="@dimen/defaultMargin"
+            android:layout_toEndOf="@id/img"
+            android:layout_toLeftOf="@id/priceClient"
+            android:layout_toRightOf="@+id/img"
+            android:layout_toStartOf="@id/priceClient"
+            android:text="Title product"
+            android:textColor="@color/black"
+            android:textSize="16sp" />
+
+        <TextView
+            android:id="@+id/priceClient"
+            android:layout_width="80dp"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="@dimen/defaultMargin"
+            android:layout_marginTop="@dimen/defaultMargin"
+            android:gravity="end"
+            android:text="0.0 ₴"
+            android:textAlignment="textEnd"
+            android:textColor="@color/colorPrimary"
+            android:textSize="16sp" />
+
+        <TextView
+            android:id="@+id/countValue"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/priceClient"
+            android:layout_marginLeft="8dp"
+            android:layout_marginTop="2dp"
+            android:layout_toLeftOf="@id/countText"
+            android:layout_toStartOf="@id/countText"
+            android:gravity="end"
+            android:text="0"
+            android:textAlignment="textEnd"
+            android:textColor="@color/black"
+            android:textSize="16sp" />
+
+        <TextView
+            android:id="@+id/countValue1C"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/priceClient"
+            android:layout_marginTop="2dp"
+            android:layout_toLeftOf="@id/countValue"
+            android:layout_toStartOf="@id/countValue"
+            android:text="0"
+            android:textColor="@color/colorPrimary"
+            android:textSize="16sp"
+            android:visibility="gone" />
+
+        <TextView
+            android:id="@+id/countText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_below="@id/priceClient"
+            android:layout_marginLeft="2dp"
+            android:layout_marginRight="8dp"
+            android:layout_marginTop="2dp"
+            android:text="шт"
+            android:textColor="@color/black"
+            android:textSize="16sp" />
+
+        <TextView
+            android:id="@+id/priceClientTotal"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_below="@id/countValue"
+            android:layout_marginRight="8dp"
+            android:layout_marginTop="2dp"
+            android:gravity="end"
+            android:text="0.0 ₴"
+            android:textAlignment="textEnd"
+            android:textColor="@color/black"
+            android:textSize="16sp" />
+
+        <TextView
+            android:id="@+id/options"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/title"
+            android:layout_marginBottom="2dp"
+            android:layout_marginRight="@dimen/defaultMargin"
+            android:layout_marginTop="2dp"
+            android:layout_toEndOf="@+id/img"
+            android:layout_toLeftOf="@id/priceClient"
+            android:layout_toRightOf="@+id/img"
+            android:layout_toStartOf="@id/priceClient"
+            android:text="oprions"
+            android:textColor="@color/black"
+            android:textSize="16sp" />
+
+
+    </RelativeLayout>
+
+
+
+
+</RelativeLayout>

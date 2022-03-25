@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:background="@color/white"
+    android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:id="@+id/itemLay"
+        android:focusableInTouchMode="false"
+        android:focusable="true"
+        android:clickable="true"
+        android:layout_width="match_parent"
+        android:paddingBottom="8dp"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:id="@+id/img"
+            android:layout_width="75dp"
+            android:layout_height="75dp"
+            android:layout_margin="@dimen/defaultMargin"
+            android:layout_marginBottom="2dp"
+            android:scaleType="center"
+            android:src="@drawable/ic_image_grey600_36dp" />
+        <LinearLayout
+            android:id="@+id/qtyLay"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/img"
+            android:layout_alignParentLeft="true"
+            android:layout_alignEnd="@id/img"
+            android:layout_marginLeft="8dp"
+            android:gravity="center_horizontal"
+            android:orientation="horizontal"
+            android:layout_alignRight="@id/img"
+            android:layout_marginStart="8dp"
+            android:layout_alignParentStart="true">
+
+            <ImageView
+                android:id="@+id/minus"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:clickable="true"
+                android:focusable="true"
+                android:focusableInTouchMode="false"
+                android:src="@drawable/ic_minus_circle_outline_grey600_18dp" />
+
+            <TextView
+                android:id="@+id/quantityValue"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/defaultMargin"
+                android:layout_marginRight="@dimen/defaultMargin"
+                android:text="1"
+                android:textColor="@color/black"
+                android:textSize="@dimen/ProductTitle" />
+
+            <ImageView
+                android:id="@+id/plus"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:clickable="true"
+                android:focusable="true"
+                android:focusableInTouchMode="false"
+                android:src="@drawable/ic_plus_circle_outline_grey600_18dp" />
+        </LinearLayout>
+        <TextView
+            android:id="@+id/title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/defaultMargin"
+            android:layout_toStartOf="@id/remove"
+            android:layout_toRightOf="@+id/img"
+            android:layout_toEndOf="@id/img"
+            android:text="Title product"
+            android:textColor="@color/black"
+            android:textSize="16sp"
+            android:layout_toLeftOf="@id/remove" />
+
+        <TextView
+            android:id="@+id/options"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/title"
+            android:layout_marginTop="2dp"
+            android:layout_marginBottom="2dp"
+            android:layout_toRightOf="@+id/img"
+            android:text="oprions"
+            android:textColor="@color/black"
+            android:textSize="14sp"
+            android:layout_toEndOf="@+id/img" />
+        <TextView
+            android:id="@+id/priceBase"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_alignBaseline="@+id/options"
+            android:layout_marginRight="@dimen/defaultMargin"
+            android:layout_marginTop="2dp"
+            android:text="0.0 ₴"
+            android:textColor="@color/cardview_shadow_start_color"
+            android:textSize="14sp" />
+        <TextView
+            android:id="@+id/priceClient"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_below="@+id/priceBase"
+            android:layout_marginRight="@dimen/defaultMargin"
+            android:layout_marginTop="2dp"
+            android:text="0.0 ₴"
+            android:textColor="@color/black"
+            android:textSize="14sp" />
+
+        <TextView
+            android:id="@+id/quantity"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/title"
+            android:layout_below="@+id/title"
+            android:text="Color: "
+            android:visibility="gone"
+            android:textColor="@color/black"
+            android:textSize="12sp" />
+
+        <ImageView
+        android:id="@+id/remove"
+        android:focusable="true"
+        android:clickable="true"
+        android:focusableInTouchMode="false"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_alignParentRight="true"
+        android:layout_margin="@dimen/defaultMargin"
+        android:src="@drawable/ic_delete_icon" />
+
+    </RelativeLayout>
+
+
+
+
+</RelativeLayout>

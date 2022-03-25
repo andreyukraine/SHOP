@@ -1,0 +1,10 @@
+org.apmem.tools.layouts
+attr debugDraw
+attr layoutDirection
+attr layout_newLine
+attr layout_weight
+attr weightDefault
+id ltr
+id rtl
+styleable FlowLayout android_gravity android_orientation debugDraw layoutDirection weightDefault
+styleable FlowLayout_LayoutParams android_layout_gravity layout_newLine layout_weight

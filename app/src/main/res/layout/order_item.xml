@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/itemOrder"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginBottom="8dp"
+    android:layout_marginLeft="8dp"
+    android:layout_marginRight="8dp"
+    android:clickable="true"
+    android:focusable="true"
+    android:paddingTop="8dp">
+
+    <TextView
+        android:id="@+id/numberOrder"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginLeft="8dp"
+        android:layout_marginTop="2dp"
+        android:layout_toLeftOf="@id/totalOrder"
+        android:layout_toStartOf="@id/totalOrder"
+        android:text="Order #"
+        android:textColor="@color/colorPrimary"
+        android:textSize="16sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/totalOrder1C"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginEnd="8dp"
+        android:layout_marginRight="2dp"
+        android:layout_marginTop="2dp"
+        android:text="0.0"
+        android:textColor="@color/black"
+        android:textSize="16sp"
+        android:visibility="gone" />
+
+    <TextView
+        android:id="@+id/totalOrder"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@id/numberOrder"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_below="@id/totalOrder1C"
+        android:layout_marginEnd="8dp"
+        android:layout_marginRight="2dp"
+        android:layout_marginTop="2dp"
+        android:text="0.0"
+        android:textColor="@color/colorPrimary"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/textClient"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/numberOrder"
+        android:layout_alignStart="@id/numberOrder"
+        android:layout_alignLeft="@id/numberOrder"
+        android:layout_marginLeft="8dp"
+        android:layout_marginTop="3dp"
+        android:text="Клієнт:"
+        android:textColor="@color/black"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/clientOrder"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/numberOrder"
+        android:layout_alignBaseline="@id/textClient"
+        android:layout_marginLeft="8dp"
+        android:layout_marginBottom="2dp"
+        android:layout_toStartOf="@id/totalOrder"
+        android:layout_toLeftOf="@id/totalOrder"
+        android:layout_toEndOf="@id/textClient"
+        android:layout_toRightOf="@id/textClient"
+        android:ellipsize="end"
+        android:maxLines="1"
+        android:text="Клієнт"
+        android:textColor="@color/black"
+        android:textSize="14sp" />
+
+    <TextView
+        android:id="@+id/textStore"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@id/numberOrder"
+        android:layout_alignStart="@id/numberOrder"
+        android:layout_below="@id/textClient"
+        android:layout_marginLeft="8dp"
+        android:text="Склад:"
+        android:textColor="@color/black"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/orderStore"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@id/textStore"
+        android:layout_below="@id/textClient"
+        android:layout_marginLeft="8dp"
+        android:layout_marginTop="3dp"
+        android:layout_toRightOf="@id/textStore"
+        android:text="Склад"
+        android:textColor="@color/black" />
+
+    <TextView
+        android:id="@+id/textStatus"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/textStore"
+        android:layout_alignStart="@id/numberOrder"
+        android:layout_alignLeft="@id/numberOrder"
+        android:layout_marginLeft="8dp"
+        android:text="Статус:"
+        android:textColor="@color/black"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/orderStatus"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@id/textStatus"
+        android:layout_marginLeft="8dp"
+        android:layout_marginTop="3dp"
+        android:layout_toEndOf="@id/textStatus"
+        android:layout_toRightOf="@id/textStatus"
+        android:text="Статус замовлення"
+        android:textColor="@color/black" />
+
+    <TextView
+        android:id="@+id/textComment"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/orderStatus"
+        android:layout_alignStart="@id/numberOrder"
+        android:layout_alignLeft="@id/numberOrder"
+        android:layout_marginLeft="8dp"
+        android:text="Коментар:"
+
+        android:textColor="@color/black"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/Comment"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@id/textComment"
+        android:layout_alignEnd="@id/totalOrder"
+        android:layout_marginLeft="8dp"
+        android:layout_marginTop="3dp"
+        android:layout_toEndOf="@id/textComment"
+        android:layout_toRightOf="@id/textComment"
+        android:maxLines="1"
+        android:singleLine="true"
+        android:text="Коментар замовлення"
+        android:textColor="@color/black" />
+
+</RelativeLayout>

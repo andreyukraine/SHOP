@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">B2B</string>
+
+    <!-- Error Messages -->
+    <string name="NoInternet">Немає інтернету</string>
+    <string name="Error500">Помилка: щось пішло не так</string>
+    <string name="BlankError">" не повинно бути порожнім"</string>
+    <string name="EmailError">"Email недійсний"</string>
+    <string name="EmailExistsError">"Email вже існує"</string>
+    <string name="InvalidUser">Неправильне ім\'я або пароль</string>
+    <string name="retry">Повторити</string>
+
+    <!-- Bottom Navigation Titles -->
+    <string name="TitleHome">Головна</string>
+    <string name="TitleCategories">Товари</string>
+    <string name="TitleInfo">Інформація</string>
+    <string name="TitleSearch">Пошук</string>
+    <string name="TitleClient">Клієнти</string>
+    <string name="TitleAccount">Акаунт</string>
+
+    <!-- Sort / Filter -->
+    <string name="sort">SORT</string>
+    <string name="filter">FILTER</string>
+    <string name="filters">Фільтри</string>
+    <string name="apply">Застосувати</string>
+    <string name="clear">Очистити все</string>
+
+    <!-- Product Detail Page -->
+    <string name="cart">Додати до кошику</string>
+    <string name="cart_empty">Кошик порожній</string>
+    <string name="add_success">Успішно додано</string>
+    <string name="update_success">Успешно обновлено</string>
+    <string name="delete_success">Успішно видалено</string>
+    <string name="delete_all_cart">Видалено з кошика</string>
+    <string name="item_exists">Товар доданий</string>
+
+    <!-- Sign In / Sign Up -->
+    <string name="signin">Увійти</string>
+    <string name="signup">Зареєструватись</string>
+    <string name="name">ПІБ</string>
+    <string name="email">Email</string>
+    <string name="password">Пароль</string>
+    <string name="mobile">Номер мобільного телефону</string>
+
+    <!-- Shopping Cart Page -->
+    <string name="place_order">Оформити замовлення</string>
+    <string name="shopping_cart">Кошик</string>
+
+    <!-- My Orders Page -->
+    <string name="my_orders">Мої замовлення</string>
+    <string name="sku">Sku</string>
+    <string name="barcode">Barcode</string>
+    <string name="title_activity_client_gallary">ClientGallary</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="todo">TODO</string>
+    <string name="title_activity_maps">Map</string>
+</resources>

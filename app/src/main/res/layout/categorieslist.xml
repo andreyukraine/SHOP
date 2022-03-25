@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/white"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <ListView android:id="@+id/listview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:clickable="false"
+        android:focusable="false"
+        android:background="@color/white"
+        android:divider="@color/border"
+        android:focusableInTouchMode="true"
+        xmlns:android="http://schemas.android.com/apk/res/android" >
+    </ListView>
+    <TextView android:id="@+id/notProducts"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Немає товарів"
+        android:textAlignment="center"
+        android:gravity="center_vertical"
+        tools:ignore="RtlCompat"
+        xmlns:tools="http://schemas.android.com/tools"
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:visibility="gone"/>
+</LinearLayout>
+
+

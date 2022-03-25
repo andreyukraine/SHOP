@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">917599779468-008dntl0fn6b9venancjo60q5ssc1huv.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://com-preethzcodez-ecommerce-default-rtdb.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">917599779468</string>
+    <string name="google_api_key" translatable="false">AIzaSyDgLeWXm0roA5t96o28riGn2spl8Lqz6ys</string>
+    <string name="google_app_id" translatable="false">1:917599779468:android:84add7c339b1f4cd8899a9</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDgLeWXm0roA5t96o28riGn2spl8Lqz6ys</string>
+    <string name="google_storage_bucket" translatable="false">com-preethzcodez-ecommerce.appspot.com</string>
+    <string name="project_id" translatable="false">com-preethzcodez-ecommerce</string>
+</resources>

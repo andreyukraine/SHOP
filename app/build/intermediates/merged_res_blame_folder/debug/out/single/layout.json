@@ -1,0 +1,258 @@
+[
+    {
+        "merged": "/Users/andreygorshkov/DATA_MAC/ANDROID/SHOP/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/pics_data_item.xml",
+        "source": "/Users/andreygorshkov/DATA_MAC/ANDROID/SHOP/app/src/main/res/layout/pics_data_item.xml"
+    },
+    {
+        "merged": "/Users/andreygorshkov/DATA_MAC/ANDROID/SHOP/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/product_detail.xml",
+        "source": "/Users/andreygorshkov/DATA_MAC/ANDROID/SHOP/app/src/main/res/layout/product_detail.xml"
+    },
+    {
+        "merged": "/Users/andreygorshkov/DATA_MAC/ANDROID/SHOP/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/search_list.xml",
+        "source": "/Users/andreygorshkov/DATA_MAC/ANDROID/SHOP/app/src/main/res/layout/search_list.xml"
+    },
+    {
+        "merged": "/Users/andreygorshkov/DATA_MAC/ANDROID/SHOP/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_home.xml",
+        "source": "/Users/andreygorshkov/DATA_MAC/ANDROID/SHOP/app/src/main/res/layout/activity_home.xml"
+    },
+    {
+        "merged": "/Users/andreygorshkov/DATA_MAC/ANDROID/SHOP/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/product_grid_item.xml",
+        "source": "/Users/andreygorshkov/DATA_MAC/ANDROID/SHOP/app/src/main/res/layout/product_grid_item.xml"
+    },
+    {
+        "merged": "/Users/andreygorshkov/DATA_MAC/ANDROID/SHOP/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/discont_list.xml",
+        "source": "/Users/andreygorshkov/DATA_MAC/ANDROID/SHOP/app/src/main/res/layout/discont_list.xml"
+    },
+    {
+        "merged": "/Users/andreygorshkov/DATA_MAC/ANDROID/SHOP/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/tab_cart_selected.xml",
+        "source": "/Users/andreygorshkov/DATA_MAC/ANDROID/SHOP/app/src/main/res/layout/tab_cart_selected.xml"
+    },
+    {
+        "merged": "/Users/andreygorshkov/DATA_MAC/ANDROID/SHOP/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/blank.xml",
+        "source": "/Users/andreygorshkov/DATA_MAC/ANDROID/SHOP/app/src/main/res/layout/blank.xml"
+    },
+    {
+        "merged": "/Users/andreygorshkov/DATA_MAC/ANDROID/SHOP/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/custom_progressdialog.xml",
+        "source": "/Users/andreygorshkov/DATA_MAC/ANDROID/SHOP/app/src/main/res/layout/custom_progressdialog.xml"
+    },
+    {
+        "merged": "/Users/andreygorshkov/DATA_MAC/ANDROID/SHOP/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/subcategorieslist.xml",
+        "source": "/Users/andreygorshkov/DATA_MAC/ANDROID/SHOP/app/src/main/res/layout/subcategorieslist.xml"
+    },
+    {
+        "merged": "/Users/andreygorshkov/DATA_MAC/ANDROID/SHOP/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/order_list_edit.xml",
+        "source": "/Users/andreygorshkov/DATA_MAC/ANDROID/SHOP/app/src/main/res/layout/order_list_edit.xml"
+    },
+    {
+        "merged": "/Users/andreygorshkov/DATA_MAC/ANDROID/SHOP/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/categories_list_item.xml",
+        "source": "/Users/andreygorshkov/DATA_MAC/ANDROID/SHOP/app/src/main/res/layout/categories_list_item.xml"
+    },
+    {
+        "merged": "/Users/andreygorshkov/DATA_MAC/ANDROID/SHOP/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/product_list.xml",
+        "source": "/Users/andreygorshkov/DATA_MAC/ANDROID/SHOP/app/src/main/res/layout/product_list.xml"
+    },
+    {
+        "merged": "/Users/andreygorshkov/DATA_MAC/ANDROID/SHOP/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/custom_spinner_dropdown_item.xml",
+        "source": "/Users/andreygorshkov/DATA_MAC/ANDROID/SHOP/app/src/main/res/layout/custom_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Users/andreygorshkov/DATA_MAC/ANDROID/SHOP/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/orders.xml",
+        "source": "/Users/andreygorshkov/DATA_MAC/ANDROID/SHOP/app/src/main/res/layout/orders.xml"
+    },
+    {
+        "merged": "/Users/andreygorshkov/DATA_MAC/ANDROID/SHOP/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/gallery_item.xml",
+        "source": "/Users/andreygorshkov/DATA_MAC/ANDROID/SHOP/app/src/main/res/layout/gallery_item.xml"
+    },
+    {
+        "merged": "/Users/andreygorshkov/DATA_MAC/ANDROID/SHOP/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/item_gift_list.xml",
+        "source": "/Users/andreygorshkov/DATA_MAC/ANDROID/SHOP/app/src/main/res/layout/item_gift_list.xml"
+    },
+    {
+        "merged": "/Users/andreygorshkov/DATA_MAC/ANDROID/SHOP/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/order_cart_item.xml",
+        "source": "/Users/andreygorshkov/DATA_MAC/ANDROID/SHOP/app/src/main/res/layout/order_cart_item.xml"
+    },
+    {
+        "merged": "/Users/andreygorshkov/DATA_MAC/ANDROID/SHOP/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/sign_in.xml",
+        "source": "/Users/andreygorshkov/DATA_MAC/ANDROID/SHOP/app/src/main/res/layout/sign_in.xml"
+    },
+    {
+        "merged": "/Users/andreygorshkov/DATA_MAC/ANDROID/SHOP/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/filterlayout.xml",
+        "source": "/Users/andreygorshkov/DATA_MAC/ANDROID/SHOP/app/src/main/res/layout/filterlayout.xml"
+    },
+    {
+        "merged": "/Users/andreygorshkov/DATA_MAC/ANDROID/SHOP/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/shopping_cart_item.xml",
+        "source": "/Users/andreygorshkov/DATA_MAC/ANDROID/SHOP/app/src/main/res/layout/shopping_cart_item.xml"
+    },
+    {
+        "merged": "/Users/andreygorshkov/DATA_MAC/ANDROID/SHOP/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/order_edit_item.xml",
+        "source": "/Users/andreygorshkov/DATA_MAC/ANDROID/SHOP/app/src/main/res/layout/order_edit_item.xml"
+    },
+    {
+        "merged": "/Users/andreygorshkov/DATA_MAC/ANDROID/SHOP/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/tab_cart_unselected.xml",
+        "source": "/Users/andreygorshkov/DATA_MAC/ANDROID/SHOP/app/src/main/res/layout/tab_cart_unselected.xml"
+    },
+    {
+        "merged": "/Users/andreygorshkov/DATA_MAC/ANDROID/SHOP/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/toolbar.xml",
+        "source": "/Users/andreygorshkov/DATA_MAC/ANDROID/SHOP/app/src/main/res/layout/toolbar.xml"
+    },
+    {
+        "merged": "/Users/andreygorshkov/DATA_MAC/ANDROID/SHOP/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/address_list.xml",
+        "source": "/Users/andreygorshkov/DATA_MAC/ANDROID/SHOP/app/src/main/res/layout/address_list.xml"
+    },
+    {
+        "merged": "/Users/andreygorshkov/DATA_MAC/ANDROID/SHOP/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_client_gallary.xml",
+        "source": "/Users/andreygorshkov/DATA_MAC/ANDROID/SHOP/app/src/main/res/layout/activity_client_gallary.xml"
+    },
+    {
+        "merged": "/Users/andreygorshkov/DATA_MAC/ANDROID/SHOP/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/orders_list.xml",
+        "source": "/Users/andreygorshkov/DATA_MAC/ANDROID/SHOP/app/src/main/res/layout/orders_list.xml"
+    },
+    {
+        "merged": "/Users/andreygorshkov/DATA_MAC/ANDROID/SHOP/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/order_detail_list.xml",
+        "source": "/Users/andreygorshkov/DATA_MAC/ANDROID/SHOP/app/src/main/res/layout/order_detail_list.xml"
+    },
+    {
+        "merged": "/Users/andreygorshkov/DATA_MAC/ANDROID/SHOP/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/np.xml",
+        "source": "/Users/andreygorshkov/DATA_MAC/ANDROID/SHOP/app/src/main/res/layout/np.xml"
+    },
+    {
+        "merged": "/Users/andreygorshkov/DATA_MAC/ANDROID/SHOP/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/child_view.xml",
+        "source": "/Users/andreygorshkov/DATA_MAC/ANDROID/SHOP/app/src/main/res/layout/child_view.xml"
+    },
+    {
+        "merged": "/Users/andreygorshkov/DATA_MAC/ANDROID/SHOP/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/client_gallary.xml",
+        "source": "/Users/andreygorshkov/DATA_MAC/ANDROID/SHOP/app/src/main/res/layout/client_gallary.xml"
+    },
+    {
+        "merged": "/Users/andreygorshkov/DATA_MAC/ANDROID/SHOP/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/region_item.xml",
+        "source": "/Users/andreygorshkov/DATA_MAC/ANDROID/SHOP/app/src/main/res/layout/region_item.xml"
+    },
+    {
+        "merged": "/Users/andreygorshkov/DATA_MAC/ANDROID/SHOP/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/dialog_message_view.xml",
+        "source": "/Users/andreygorshkov/DATA_MAC/ANDROID/SHOP/app/src/main/res/layout/dialog_message_view.xml"
+    },
+    {
+        "merged": "/Users/andreygorshkov/DATA_MAC/ANDROID/SHOP/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_splash.xml",
+        "source": "/Users/andreygorshkov/DATA_MAC/ANDROID/SHOP/app/src/main/res/layout/activity_splash.xml"
+    },
+    {
+        "merged": "/Users/andreygorshkov/DATA_MAC/ANDROID/SHOP/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/custom_spinner_item.xml",
+        "source": "/Users/andreygorshkov/DATA_MAC/ANDROID/SHOP/app/src/main/res/layout/custom_spinner_item.xml"
+    },
+    {
+        "merged": "/Users/andreygorshkov/DATA_MAC/ANDROID/SHOP/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/sort_filter_listitem.xml",
+        "source": "/Users/andreygorshkov/DATA_MAC/ANDROID/SHOP/app/src/main/res/layout/sort_filter_listitem.xml"
+    },
+    {
+        "merged": "/Users/andreygorshkov/DATA_MAC/ANDROID/SHOP/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/discont_type_client.xml",
+        "source": "/Users/andreygorshkov/DATA_MAC/ANDROID/SHOP/app/src/main/res/layout/discont_type_client.xml"
+    },
+    {
+        "merged": "/Users/andreygorshkov/DATA_MAC/ANDROID/SHOP/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/gifts_list_view.xml",
+        "source": "/Users/andreygorshkov/DATA_MAC/ANDROID/SHOP/app/src/main/res/layout/gifts_list_view.xml"
+    },
+    {
+        "merged": "/Users/andreygorshkov/DATA_MAC/ANDROID/SHOP/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_maps.xml",
+        "source": "/Users/andreygorshkov/DATA_MAC/ANDROID/SHOP/app/src/main/res/layout/activity_maps.xml"
+    },
+    {
+        "merged": "/Users/andreygorshkov/DATA_MAC/ANDROID/SHOP/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_splash_loading.xml",
+        "source": "/Users/andreygorshkov/DATA_MAC/ANDROID/SHOP/app/src/main/res/layout/activity_splash_loading.xml"
+    },
+    {
+        "merged": "/Users/andreygorshkov/DATA_MAC/ANDROID/SHOP/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/delivery_spinner_item.xml",
+        "source": "/Users/andreygorshkov/DATA_MAC/ANDROID/SHOP/app/src/main/res/layout/delivery_spinner_item.xml"
+    },
+    {
+        "merged": "/Users/andreygorshkov/DATA_MAC/ANDROID/SHOP/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/shopping_cart_props.xml",
+        "source": "/Users/andreygorshkov/DATA_MAC/ANDROID/SHOP/app/src/main/res/layout/shopping_cart_props.xml"
+    },
+    {
+        "merged": "/Users/andreygorshkov/DATA_MAC/ANDROID/SHOP/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/city_item.xml",
+        "source": "/Users/andreygorshkov/DATA_MAC/ANDROID/SHOP/app/src/main/res/layout/city_item.xml"
+    },
+    {
+        "merged": "/Users/andreygorshkov/DATA_MAC/ANDROID/SHOP/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_load.xml",
+        "source": "/Users/andreygorshkov/DATA_MAC/ANDROID/SHOP/app/src/main/res/layout/activity_load.xml"
+    },
+    {
+        "merged": "/Users/andreygorshkov/DATA_MAC/ANDROID/SHOP/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/shopping_layout_list_product.xml",
+        "source": "/Users/andreygorshkov/DATA_MAC/ANDROID/SHOP/app/src/main/res/layout/shopping_layout_list_product.xml"
+    },
+    {
+        "merged": "/Users/andreygorshkov/DATA_MAC/ANDROID/SHOP/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/categorieslist.xml",
+        "source": "/Users/andreygorshkov/DATA_MAC/ANDROID/SHOP/app/src/main/res/layout/categorieslist.xml"
+    },
+    {
+        "merged": "/Users/andreygorshkov/DATA_MAC/ANDROID/SHOP/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/order_detail_props.xml",
+        "source": "/Users/andreygorshkov/DATA_MAC/ANDROID/SHOP/app/src/main/res/layout/order_detail_props.xml"
+    },
+    {
+        "merged": "/Users/andreygorshkov/DATA_MAC/ANDROID/SHOP/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/clients_list.xml",
+        "source": "/Users/andreygorshkov/DATA_MAC/ANDROID/SHOP/app/src/main/res/layout/clients_list.xml"
+    },
+    {
+        "merged": "/Users/andreygorshkov/DATA_MAC/ANDROID/SHOP/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/custom_tab_view_red.xml",
+        "source": "/Users/andreygorshkov/DATA_MAC/ANDROID/SHOP/app/src/main/res/layout/custom_tab_view_red.xml"
+    },
+    {
+        "merged": "/Users/andreygorshkov/DATA_MAC/ANDROID/SHOP/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/order_item.xml",
+        "source": "/Users/andreygorshkov/DATA_MAC/ANDROID/SHOP/app/src/main/res/layout/order_item.xml"
+    },
+    {
+        "merged": "/Users/andreygorshkov/DATA_MAC/ANDROID/SHOP/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/sign_up.xml",
+        "source": "/Users/andreygorshkov/DATA_MAC/ANDROID/SHOP/app/src/main/res/layout/sign_up.xml"
+    },
+    {
+        "merged": "/Users/andreygorshkov/DATA_MAC/ANDROID/SHOP/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/point_item.xml",
+        "source": "/Users/andreygorshkov/DATA_MAC/ANDROID/SHOP/app/src/main/res/layout/point_item.xml"
+    },
+    {
+        "merged": "/Users/andreygorshkov/DATA_MAC/ANDROID/SHOP/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/order_list.xml",
+        "source": "/Users/andreygorshkov/DATA_MAC/ANDROID/SHOP/app/src/main/res/layout/order_list.xml"
+    },
+    {
+        "merged": "/Users/andreygorshkov/DATA_MAC/ANDROID/SHOP/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/client_grid_item.xml",
+        "source": "/Users/andreygorshkov/DATA_MAC/ANDROID/SHOP/app/src/main/res/layout/client_grid_item.xml"
+    },
+    {
+        "merged": "/Users/andreygorshkov/DATA_MAC/ANDROID/SHOP/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/group_view.xml",
+        "source": "/Users/andreygorshkov/DATA_MAC/ANDROID/SHOP/app/src/main/res/layout/group_view.xml"
+    },
+    {
+        "merged": "/Users/andreygorshkov/DATA_MAC/ANDROID/SHOP/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/border.xml",
+        "source": "/Users/andreygorshkov/DATA_MAC/ANDROID/SHOP/app/src/main/res/layout/border.xml"
+    },
+    {
+        "merged": "/Users/andreygorshkov/DATA_MAC/ANDROID/SHOP/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/shopping_cart_products.xml",
+        "source": "/Users/andreygorshkov/DATA_MAC/ANDROID/SHOP/app/src/main/res/layout/shopping_cart_products.xml"
+    },
+    {
+        "merged": "/Users/andreygorshkov/DATA_MAC/ANDROID/SHOP/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_main.xml",
+        "source": "/Users/andreygorshkov/DATA_MAC/ANDROID/SHOP/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/andreygorshkov/DATA_MAC/ANDROID/SHOP/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/account.xml",
+        "source": "/Users/andreygorshkov/DATA_MAC/ANDROID/SHOP/app/src/main/res/layout/account.xml"
+    },
+    {
+        "merged": "/Users/andreygorshkov/DATA_MAC/ANDROID/SHOP/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/order_detail.xml",
+        "source": "/Users/andreygorshkov/DATA_MAC/ANDROID/SHOP/app/src/main/res/layout/order_detail.xml"
+    },
+    {
+        "merged": "/Users/andreygorshkov/DATA_MAC/ANDROID/SHOP/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/order_data_item.xml",
+        "source": "/Users/andreygorshkov/DATA_MAC/ANDROID/SHOP/app/src/main/res/layout/order_data_item.xml"
+    },
+    {
+        "merged": "/Users/andreygorshkov/DATA_MAC/ANDROID/SHOP/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/address_spinner_item.xml",
+        "source": "/Users/andreygorshkov/DATA_MAC/ANDROID/SHOP/app/src/main/res/layout/address_spinner_item.xml"
+    },
+    {
+        "merged": "/Users/andreygorshkov/DATA_MAC/ANDROID/SHOP/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/swipe_refresh.xml",
+        "source": "/Users/andreygorshkov/DATA_MAC/ANDROID/SHOP/app/src/main/res/layout/swipe_refresh.xml"
+    },
+    {
+        "merged": "/Users/andreygorshkov/DATA_MAC/ANDROID/SHOP/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/categories_grid_item.xml",
+        "source": "/Users/andreygorshkov/DATA_MAC/ANDROID/SHOP/app/src/main/res/layout/categories_grid_item.xml"
+    }
+]

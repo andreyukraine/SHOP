@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:background="@color/border"
+    >
+
+    <GridView
+        android:id="@+id/searchGrid"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:horizontalSpacing="@dimen/gridBorderWidth"
+        android:numColumns="1"
+        android:verticalSpacing="@dimen/gridBorderWidth">
+
+    </GridView>
+
+    <LinearLayout
+        android:id="@+id/notFound"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:visibility="gone">
+
+        <TextView
+            android:id="@+id/notFoundText"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center_vertical"
+            android:textAlignment="center"
+            android:text="Not found"
+            tools:ignore="RtlCompat" />
+    </LinearLayout>
+
+</RelativeLayout>

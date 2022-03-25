@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "917599779468",
+    "firebase_url": "https://com-preethzcodez-ecommerce-default-rtdb.firebaseio.com",
+    "project_id": "com-preethzcodez-ecommerce",
+    "storage_bucket": "com-preethzcodez-ecommerce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:917599779468:android:84add7c339b1f4cd8899a9",
+        "android_client_info": {
+          "package_name": "com.preethzcodez.ecommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "917599779468-008dntl0fn6b9venancjo60q5ssc1huv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgLeWXm0roA5t96o28riGn2spl8Lqz6ys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "917599779468-008dntl0fn6b9venancjo60q5ssc1huv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

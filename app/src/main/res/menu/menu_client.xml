@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Фото звіт"
+        android:id="@+id/foto_repost"
+        android:icon="@drawable/ic_home_grey600_24dp"
+        />
+
+</menu>

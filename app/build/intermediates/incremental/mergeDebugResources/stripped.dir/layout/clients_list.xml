@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:background="@color/border"
+    >
+
+    <TextView
+    android:id="@+id/notClients"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:text="Немає клієнтів"
+    android:textAlignment="center"
+    android:gravity="center_vertical"
+    tools:ignore="RtlCompat"
+    />
+
+    <androidx.swiperefreshlayout.widget.SwipeRefreshLayout
+        android:id="@+id/swipe_container"
+        android:layout_width="match_parent"
+        android:visibility="gone"
+        android:layout_height="match_parent" >
+
+            <GridView
+            android:id="@+id/clientsGrid"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:horizontalSpacing="@dimen/gridBorderWidth"
+            android:numColumns="1"
+            android:verticalSpacing="@dimen/gridBorderWidth"
+                />
+
+    </androidx.swiperefreshlayout.widget.SwipeRefreshLayout>
+</RelativeLayout>
